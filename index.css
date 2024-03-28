@@ -455,3 +455,18 @@ section {
     margin-top: 2rem;
   }
 }
+.btn {
+  display: flex;
+  padding: 1rem 2.8rem;
+  background:rgb(104, 104, 146);
+  /* border-radius: 4rem; */
+  
+  font-size: 1.6rem;
+  color: var(--bg-second-color);
+  letter-spacing: .1rem;
+  font-weight: 600;
+}
+
+.btn:hover {
+  box-shadow: none;
+}
